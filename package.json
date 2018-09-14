@@ -1,0 +1,19 @@
+{
+  "name": "foadtestpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foadshariat7/testrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foadshariat7/testrepo/issues"
+  },
+  "homepage": "https://github.com/foadshariat7/testrepo#readme"
+}
